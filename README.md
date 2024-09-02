@@ -9,7 +9,6 @@ This notebook introduces fundamental TensorFlow operations. It covers:
 
 - **Introduction to Tensors:** Creating tensors, getting information from tensors, and manipulating tensors.
 - **Tensors and NumPy:** Interoperability between TensorFlow and NumPy.
-- **Using @tf.function:** A way to speed up regular Python functions.
 - **Using GPUs with TensorFlow:** Accelerating computations using GPUs.
 
 ## 01_linear_regression_with_NN.ipynb
